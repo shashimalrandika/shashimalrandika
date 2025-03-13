@@ -1,6 +1,6 @@
 ### Hi there, I'm Shashimal! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B6FF&width=650&lines=Senior+Software+Engineer+%7C+C%23+%7C+ASP.NET+%7C+React+%7C+SQL;Passionate+about+Building+Scalable+and+Efficient+Software;Always+Learning+and+Improving!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&pause=1000&color=FF5733&width=700&lines=Senior+Software+Engineer+%7C+C%23+%7C+ASP.NET+%7C+React+%7C+SQL;Passionate+about+Building+Scalable+and+Efficient+Software;Always+Learning+and+Improving!)](https://git.io/typing-svg)
 
 ---
 
@@ -48,9 +48,9 @@
 
 ### 📈 GitHub Stats
 
-![Shashimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashimalrandika&show_icons=true&theme=radical)
+![Shashimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashimalrandika&show_icons=true&theme=github_dark&title_color=FF5733&icon_color=FACC15&text_color=D1D5DB&bg_color=0D1117)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashimalrandika&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashimalrandika&layout=compact&theme=github_dark&title_color=FF5733&icon_color=FACC15&text_color=D1D5DB&bg_color=0D1117)
 
 ---
 

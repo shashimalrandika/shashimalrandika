@@ -53,7 +53,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashimalrandika&layout=compact&theme=github_dark&title_color=FF5733&icon_color=FACC15&text_color=FFFFFF&bg_color=0D1117&border_color=FACC15&bar_color=32CD32)
 
-
 ---
 
 ### 📫 Connect with Me
